@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background: #0C1729;
+    color: #8DA1C2;
+    font-size: .875rem;
+    padding: 4em;
+    /* font-family: ; */
+}
+
+img{
+    max-width: 50%;
+    display: block;
+}
+
+
+/* ===========TYPOGRAPHY======= */
+
+h1{
+    color: #fff;
+    font-size: 1rem;
+}
+
+
+
+
+/* ===========LAYOUT======= */
+
+
+.container{
+    width: 90%;
+    max-width: 700;
+    margin: 0 auto;
+    padding: 2em;
+    background: #15273F;
+    border-radius: 1em;
+    align-items: flex-end;
+}
+
+
+
