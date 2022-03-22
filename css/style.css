@@ -93,12 +93,14 @@ h1{
         padding: 20em;
     }
 
-    img{
+    /* img{
         
-    }
+    } */
     .container{
         padding: 2em;
-      
+        width: 90%;
+        max-width: 400px;
+             
     }
 
     .container-image{
